@@ -82,7 +82,7 @@ Copy-Item .env.example .env
 
 然后把 `.env` 内的 `VITE_PROXY_TARGET` 改成你的后端地址（后端默认是 `http://127.0.0.1:8813`）。
 
-#### 3.2 启动 app-web（端口 8803）
+#### 3.2 启动 uniapp-wechart（端口 8803）
 
 ```powershell
 cd app-web
