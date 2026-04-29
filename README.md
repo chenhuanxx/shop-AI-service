@@ -4,7 +4,7 @@
 
 - `java-backend/`：后端（Spring Boot + JPA + Security + JWT）
 - `frontend-vue/`：前端（Vue3 + TS + Vite + Ant Design Vue）
-- `app-web/`：前端（Vue3 + TS + Vite + Vant，可选 Mock）
+- `uniapp-wechart/`：前端（Vue3 + TS + Vite + Vant-uniapp，可选 Mock）
 
 ## 运行环境
 
