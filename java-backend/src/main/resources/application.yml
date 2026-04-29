@@ -27,7 +27,7 @@ python-admin:
     secret: ${JWT_SECRET:dev-secret-change-me}
     expire-minutes: ${JWT_EXPIRE_MINUTES:10080}
   mysql:
-    host: ${MYSQL_HOST:223.109.140.116}
+    host: ${MYSQL_HOST:127.0.0.1}
     port: ${MYSQL_PORT:3306}
     database: ${MYSQL_DATABASE:java-admin}
     user: ${MYSQL_USER:java-admin}

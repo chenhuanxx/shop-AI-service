@@ -4,8 +4,7 @@ import {
 } from './function';
 
 function resolveBaseUrl() { 
-	// return 'http://localhost:8813'
-	return 'http://223.109.140.116:8813'
+	return 'http://localhost:8813' 
 }
 
 function normalizeRequestData(method, data) {

@@ -36,7 +36,7 @@ export const getImageUrl = (path) => {
 		return path
 	}
 	// 开发环境使用 localhost，生产环境使用服务器IP
-	const baseUrl = 'http://223.109.140.116:8813'
+	const baseUrl = 'http://127.0.0.1:8813'
 	return baseUrl + path
 }
  
